@@ -14,6 +14,8 @@ function getMax(numbers) {
 const max = getMax(heights);
 console.log('max value is', max);
 
+
+
 const heights2=[12,32,5,48,12,2,10];
 
 function getMin(numbers){
